@@ -1,0 +1,3 @@
+md5_sample - Sample program to show how to calculate an exist file's MD5 signature, using the "md5name" sample resource manager
+
+md5_sample <filename>
